@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Kfv9X2tCQotOS1q0AT4i4kyiLmHt0E1Y/view?usp=sharing](https://drive.google.com/file/d/1Kfv9X2tCQotOS1q0AT4i4kyiLmHt0E1Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<img aline="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-saini-75236a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-saini-75236a202/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://insta.openinapp.co/wbczp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://insta.openinapp.co/wbczp" height="30" width="40" /></a>
