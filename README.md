@@ -1,8 +1,7 @@
 ![logo](https://github.com/AjaySaini9582/AjaySaini9582/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjaySaini9582/gofoodmern](https://github.com/AjaySaini9582/gofoodmern)
@@ -12,12 +11,11 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Kfv9X2tCQotOS1q0AT4i4kyiLmHt0E1Y/view?usp=sharing](https://drive.google.com/file/d/1Kfv9X2tCQotOS1q0AT4i4kyiLmHt0E1Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-saini-75236a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-saini-75236a202/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://insta.openinapp.co/wbczp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://insta.openinapp.co/wbczp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://yt.openinapp.co/ph5gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://yt.openinapp.co/ph5gh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ajsaini9582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ajsaini9582" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-saini-75236a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-saini-75236a202" height="30" width="40" /></a>
+<a href="https://instagram.com/its_ajay._saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ajay._saini" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@safarwithajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@safarwithajay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ajsaini9582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajsaini9582" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
